@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MentalMath</string>
+    <string name="amount_problems">Amount of problems:</string>
+    <string name="range_of_numbers">Range of numbers:</string>
+    <string name="to">to</string>
+    <string name="operations">Operations:</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="play">Play!</string>
+    <string name="key_amount">amount</string>
+    <string name="key_from">from</string>
+    <string name="key_to">to</string>
+    <string name="key_radio">radio</string>
+    <string name="missing_input">You are missing an input!</string>
+    <string name="range_incorrect">Make sure your range is correct! First value should be smaller than second value.</string>
+    <string name="amount_error">Amount of problems cannot be less than or equal to 0!</string>
+    <string name="init_failed">Initialization failed!</string>
+    <string name="tts">TTS</string>
+    <string name="lang_not_supported">Language is not supported</string>
+</resources>
